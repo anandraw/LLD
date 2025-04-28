@@ -1,5 +1,7 @@
 package SolidPrinciple.S;
 
+//S: Single Responsibility Principle
+// only one class or interface do one work at time
 
 class Marker{
     String name;

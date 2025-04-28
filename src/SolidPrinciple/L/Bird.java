@@ -1,6 +1,7 @@
 package SolidPrinciple.L;
 
-// L: subclass should be extended the capability of parent class not narrow it down
+// L: Liskov Substitution Principle
+// subclass should be extended the capability of parent class not narrow it down
 
 public class Bird {
     public void fly() {
